@@ -1,0 +1,6 @@
+Cloth [Id=1, category=MENS_SHIRT, stock=50.0, updateDate=2023-10-15, size=L, price=200.0, brand=ADDIDASS, color=white, discount=20.0]
+Cloth [Id=2, category=MENS_TSHRT, stock=40.0, updateDate=2023-07-15, size=M, price=100.0, brand=PLASS, color=black, discount=10.0]
+Cloth [Id=4, category=WOMENS_SARI, stock=60.0, updateDate=2022-12-15, size=L, price=900.0, brand=BANARASI, color=Red, discount=20.0]
+Cloth [Id=5, category=MENS_SHIRT, stock=450.0, updateDate=2023-05-10, size=XL, price=800.0, brand=ADDIDASS, color=black, discount=50.0]
+Cloth [Id=6, category=MENS_TSHRT, stock=80.0, updateDate=2022-07-15, size=XLL, price=400.0, brand=HOOK, color=grey, discount=20.0]
+Cloth [Id=7, category=MENS_TSHRT, stock=5.0, updateDate=2023-10-21, size=XLL, price=360.0, brand=GHK, color=pink, discount=20.0]
